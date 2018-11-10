@@ -1,5 +1,5 @@
 //グローバル変数
-var CHANNEL_ACCESS_TOKEN = 'CyCxSzC6mVZFs1IQhbZtynBNrRU4m+lTDTmvHMzUUm/8MK1OU9cMqDZPVk8hzVZV44ri9U5Tzooh5i8Ha5bhCf/cpxd0TFyHIXzWpCyP5ie5tOCZT3YOUekAM0743TSJwHGh43MA0sXCUy/xIYw5YgdB04t89/1O/w1cDnyilFU=';
+var CHANNEL_ACCESS_TOKEN = '';
 var LINE_ENDPOINT = 'https://api.line.me/v2/bot/message/';
 
 
