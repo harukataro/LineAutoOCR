@@ -8,7 +8,7 @@ var CHANNEL_ACCESS_TOKEN = 'Line botのアクセスキーを取得入力'
 
 Google Apps Script
 
-リソース　→　Drive API をオン
+リソース　→　Drive API をオン<br>
 Google Cloud Platform API ダッシュボード  Drive APIをオン
 
 
